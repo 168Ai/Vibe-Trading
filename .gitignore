@@ -86,6 +86,7 @@ NOTES.md
 AGENTS.md
 
 .DS_Store
+.idea
 
 # Alpha Zoo wiki artifacts (generated, not source)
 wiki/alpha-library/manifest.json
